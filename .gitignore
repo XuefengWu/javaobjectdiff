@@ -29,3 +29,5 @@ hs_err_pid*
 .settings/
 bin/
 idea/
+
+**/.DS_Store
